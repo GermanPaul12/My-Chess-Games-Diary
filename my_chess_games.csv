@@ -1,0 +1,4 @@
+it-result,should-result,time_control,reason_it,reason_should,opening
+draw,win,"10+5",endgame,tactics,sicilian defense accelerated dragon
+win,loss,"10+5",tactics,opening,caro-kann fantasy variation
+win,draw,"10+5",tactics,overall,sicilian defense accelerated dragon
