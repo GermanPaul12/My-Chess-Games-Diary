@@ -1,4 +1,15 @@
-it-result,should-result,time_control,reason_it,reason_should,opening
-draw,win,"10+5",endgame,tactics,sicilian defense accelerated dragon
-win,loss,"10+5",tactics,opening,caro-kann fantasy variation
-win,draw,"10+5",tactics,overall,sicilian defense accelerated dragon
+it-result,should-result,time_control,reason_it,reason_should,opening,url,color,moves,my_rating,opponent_rating,patterns_to_repeat
+draw,draw,"10+5",endgame,overall,English Opening: Symmetrical Variation; Three Knights; Fianchetto Version,https://lichess.org/2JyGFqFpjUst,black,60,2002,1998,-
+draw,win,"10+5",endgame,tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/ln18IJoksZkd,black,51,2001,2002,-
+win,loss,"10+5",tactics,opening,caro-kann fantasy variation,https://lichess.org/GgWdyRKzb7lX,white,18,2001,2006,-
+win,draw,"10+5",tactics,overall,Sicilian Defense: Accelerated Dragon,https://lichess.org/wHW1bUeB3zHj,black,24,2009,2031,-
+win,win,"10+5",tactics,overall,Sicilian Defense: Open,https://lichess.org/xkyoQdWX,white,14,2017,2140,-
+loss,loss,"10+5",overall,opening,Sicilian Defense: Accelerated Dragon,https://lichess.org/uzxfsild,black,46,2027,1888,-
+win,win,"10+0",endgame,middlegame,French Defense: Tarrasch Variation,https://lichess.org/wrykSQnZc44K,white,34,2017,2231,-
+win,win,"10+0",middlegame,middlegame,Indian Defense,https://lichess.org/0kNxoyffRRVi,black,22,2027,1510,-
+loss,draw,"10+0",time,endgame,Italian Game: Anti-Fried Liver Defense,https://lichess.org/ov4drax6,white,41,2028,1504,endgame
+draw,win,"10+0",endgame,middlegame;tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/gjpDRjtl3Qyq,black,59,2015,1708,tactics
+win,win,"10+0",reason_it,reason_should,French Defense: Tarrasch Variation,https://lichess.org/6qdhPH3mSquH,white,51,2010,1658,-
+win,win,"10+0",overall,overall,Rat Defense: Accelerated Gurgenidze,https://lichess.org/Jn0P4lO1XHWV,white,60,2011,1738,-
+win,win,"10+0",endgame,endgame,Sicilian Defense: Old Sicilian,https://lichess.org/Aij49ILPrvi6,black,33,2014,1735,-
+win,win,"10+0",checkmate,middlegame,Sicilian Defense,https://lichess.org/k2kkLov1uZ66,black,32,2016,1577,tactics
