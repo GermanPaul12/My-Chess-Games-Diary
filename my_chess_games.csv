@@ -1,21 +1,33 @@
-it_result,should_result,time_control,reason_it,reason_should,opening,url,color,moves,my_rating,opponent_rating,patterns_to_repeat,comments
-draw,draw,"10+5",endgame,overall,English Opening: Symmetrical Variation; Three Knights; Fianchetto Version,https://lichess.org/2JyGFqFpjUst,black,60,2002,1998,-,-
-draw,win,"10+5",endgame,tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/ln18IJoksZkd,black,51,2001,2002,-,-
-win,loss,"10+5",tactics,opening,caro-kann fantasy variation,https://lichess.org/GgWdyRKzb7lX,white,18,2001,2006,-,-
-win,draw,"10+5",tactics,overall,Sicilian Defense: Accelerated Dragon,https://lichess.org/wHW1bUeB3zHj,black,24,2009,2031,-,-
-win,win,"10+5",tactics,overall,Sicilian Defense: Open,https://lichess.org/xkyoQdWX,white,14,2017,2140,-,-
-loss,loss,"10+5",overall,opening,Sicilian Defense: Accelerated Dragon,https://lichess.org/uzxfsild,black,46,2027,1888,-,-
-win,win,"10+0",endgame,middlegame,French Defense: Tarrasch Variation,https://lichess.org/wrykSQnZc44K,white,34,2017,2231,-,-
-win,win,"10+0",middlegame,middlegame,Indian Defense,https://lichess.org/0kNxoyffRRVi,black,22,2027,1510,-,-
-loss,draw,"10+0",time,endgame,Italian Game: Anti-Fried Liver Defense,https://lichess.org/ov4drax6,white,41,2028,1504,endgame,-
-draw,win,"10+0",endgame,middlegame;tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/gjpDRjtl3Qyq,black,59,2015,1708,tactics,-
-win,win,"10+0",reason_it,reason_should,French Defense: Tarrasch Variation,https://lichess.org/6qdhPH3mSquH,white,51,2010,1658,-,-
-win,win,"10+0",overall,overall,Rat Defense: Accelerated Gurgenidze,https://lichess.org/Jn0P4lO1XHWV,white,60,2011,1738,-,-
-win,win,"10+0",endgame,endgame,Sicilian Defense: Old Sicilian,https://lichess.org/Aij49ILPrvi6,black,33,2014,1735,-,-
-win,win,"10+0",checkmate,middlegame,Sicilian Defense,https://lichess.org/k2kkLov1uZ66,black,32,2016,1577,tactics,-
-win,win,"10+5",overall,overall,French Defense: Tarrasch Variation,https://lichess.org/XwHJ439j,white,52,2017,2022,tactics,-
-win,win,"30+0",tactics,opening,Sicilian Defense: O'Kelly Variation,https://lichess.org/hxY3WbxRSReT,white,13,1832,1770,opening,-
-win,win,"10+5",tactics,tactics,Sicilian Defense: Accelerated Dragon,https://www.chess.com/game/live/76767075075,black,18,1645,1577,tactics&opening,-
-win,win,"10+5",tactics,overall,Pirc Defense: Classical Variation,https://www.chess.com/game/live/76768297383,black,47,1652,325,tactics&opening,-
-win,loss,"10+5",tactics&middlegame&endgame,opening,King's Indian Defense,https://www.chess.com/analysis/game/live/76769369471,black,47,1652,1465,opening,endgame played like a god 97% accuracy and middlegame 88%
-loss,win,"10+5",endgame,overall,Phillidor Defense,https://www.chess.com/analysis/game/live/76771345875,white,58,1657,1671,endgame&tactics,lost a winning position
+it_result,should_result,time_control,reason_it,reason_should,opening,url,color,moves,my_rating,opponent_rating,patterns_to_repeat,comments,opponent_username
+draw,draw,10+5,endgame,overall,English Opening: Symmetrical Variation; Three Knights; Fianchetto Version,https://lichess.org/2JyGFqFpjUst,black,60,2002,1998,-,-,-
+draw,win,10+5,endgame,tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/ln18IJoksZkd,black,51,2001,2002,-,-,-
+win,loss,10+5,tactics,opening,caro-kann fantasy variation,https://lichess.org/GgWdyRKzb7lX,white,18,2001,2006,-,-,-
+win,draw,10+5,tactics,overall,Sicilian Defense: Accelerated Dragon,https://lichess.org/wHW1bUeB3zHj,black,24,2009,2031,-,-,-
+win,win,10+5,tactics,overall,Sicilian Defense: Open,https://lichess.org/xkyoQdWX,white,14,2017,2140,-,-,-
+loss,loss,10+5,overall,opening,Sicilian Defense: Accelerated Dragon,https://lichess.org/uzxfsild,black,46,2027,1888,-,-,-
+win,win,10+0,endgame,middlegame,French Defense: Tarrasch Variation,https://lichess.org/wrykSQnZc44K,white,34,2017,2231,-,-,-
+win,win,10+0,middlegame,middlegame,Indian Defense,https://lichess.org/0kNxoyffRRVi,black,22,2027,1510,-,-,-
+loss,draw,10+0,time,endgame,Italian Game: Anti-Fried Liver Defense,https://lichess.org/ov4drax6,white,41,2028,1504,endgame,-,-
+draw,win,10+0,endgame,middlegame;tactics,Sicilian Defense: Accelerated Dragon,https://lichess.org/gjpDRjtl3Qyq,black,59,2015,1708,tactics,-,-
+win,win,10+0,reason_it,reason_should,French Defense: Tarrasch Variation,https://lichess.org/6qdhPH3mSquH,white,51,2010,1658,-,-,-
+win,win,10+0,overall,overall,Rat Defense: Accelerated Gurgenidze,https://lichess.org/Jn0P4lO1XHWV,white,60,2011,1738,-,-,-
+win,win,10+0,endgame,endgame,Sicilian Defense: Old Sicilian,https://lichess.org/Aij49ILPrvi6,black,33,2014,1735,-,-,-
+win,win,10+0,checkmate,middlegame,Sicilian Defense,https://lichess.org/k2kkLov1uZ66,black,32,2016,1577,tactics,-,-
+win,win,10+5,overall,overall,French Defense: Tarrasch Variation,https://lichess.org/XwHJ439j,white,52,2017,2022,tactics,-,-
+win,win,30+0,tactics,opening,Sicilian Defense: O'Kelly Variation,https://lichess.org/hxY3WbxRSReT,white,13,1832,1770,opening,-,-
+win,win,30+0,tactics,tactics,Modern Defense: Geller's System,https://lichess.org/HwNJviseBB4Q,white,33,1828,1827,-,-,-
+win,loss,10+5,tactics&middlegame&endgame,opening,King's Indian Defense,https://www.chess.com/game/live/76769369471,black,47,1652,1465,opening,endgame played like a god 97% accuracy and middlegame 88%,-
+loss,win,10+5,endgame,overall,Phillidor Defense,https://www.chess.com/game/live/76771345875,white,58,1657,1671,endgame&tactics,lost a winning position,-
+win,win,10+5,opening,opening,Sicilian Defense: Accelerated Dragon,https://www.chess.com/game/live/76767075075,black,18,1652,1569,tactics,-,-
+win,win,10+5,tactics,overall,Pirc Defense: Classical Variation,https://www.chess.com/game/live/76768297383,black,47,1652,325,opening,should have won more easily,ByronBousfield
+draw,win,10+5,middlegame,middlegame,Sicilian Defense: Alapin Variation,https://www.chess.com/game/live/76846342635,black,67,1641,1011,middlegame,endgame played with 95% accuracy,ktln1234
+draw,win,10+5,opening,rating,Sicilian Defense: Taimanov Variation,https://www.chess.com/game/live/76847396091,white,13,1634,1109,opening,-,ktln1234
+win,win,10+5,tactics&endgame,overall,Sicilian Defense: McDonnell Attack,https://www.chess.com/game/live/76847486429,black,54,1635,1099,middlegame,opening 100% accuracy and endgame very good but middlegame could be better,ktln1234
+win,win,10+5,tactics,overall,Sicilian Defense,https://www.chess.com/game/live/77726435723,black,56,1633,1210,-,tactics were good,csako11
+win,win,10+5,tactics&endgame,overall,Italian Game: Anti-Fried Liver Defense,https://www.chess.com/game/live/77727285173,white,75,1634,1209,middlegame,endgame pretty good,csako11
+loss,win,10+5,opening&middlegame,rating,Petrov's Defense: Steinitz Attack,https://www.chess.com/game/live/77724737311,white,51,1631,1264,opening&middlegame,badly played the opening,Jutyar1986
+draw,draw,10+5,overall,overall,Scandinavian Defense: Modern Variation,https://www.chess.com/game/live/77720038447,white,47,1648,1612,middlegame,both have 91.2% accuracy over all,ma1lor
+win,loss,10+5,overall,rating,Sicilian Defense: Open,https://www.chess.com/game/live/77718754557,white,55,1649,1809,-,one of the best games ever played by me,Coccarelli21
+loss,win,10+5,tactics,material,Sicilian Defense: Old Sicilian,https://www.chess.com/game/live/77718754557,black,23,1623,1571,tactics,-,AlessandroMarcel
+win,win,10+5,tactics,overall,opening,https://www.chess.com/analysis/game/live/77815477617,white,moves,1630,1564,endgame,-,AlessandroMarcel
+it_result,should_result,10+5,reason_it,reason_should,opening,url,color,moves,my_rating,opponent_rating,patterns_to_repeat,-,-
